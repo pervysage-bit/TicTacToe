@@ -8,8 +8,8 @@ public class TicTacToeGrid : Matrices
     bool checkWin = false;
     bool rowSame = false;
     bool columnSame = false;
-    bool diagnolSame = false;
-    bool matchDraw = false;
+    //bool diagnolSame = false;
+    //bool matchDraw = false;
     bool gameFinished = false;
 
     List<List<Cell>> cellsGrid;
