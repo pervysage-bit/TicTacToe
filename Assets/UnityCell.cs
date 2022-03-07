@@ -10,14 +10,6 @@ public class UnityCell : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       // cell = new Cell();
-        //cell.statusUpdated += SetStatus;
-       // SetStatus(Cell.Status.none);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
         
     }
 
